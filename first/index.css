@@ -18,7 +18,6 @@ div {
 footer {
     height: 3em;
     width: 70%;
-    margin: 0 auto;
     background-color: rgb(70, 69, 69);
     position: absolute;
     bottom: -13%;
