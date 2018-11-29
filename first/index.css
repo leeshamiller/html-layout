@@ -1,0 +1,30 @@
+header {
+    height: 8em;
+    width: 100%;
+    background-color: rgb(70, 69, 69);
+}
+
+div {
+    height: 50em;
+    width: 15%;
+    background-color: whitesmoke; 
+    float: right;
+}
+
+.one {
+    float: left;
+}
+
+footer {
+    height: 3em;
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(70, 69, 69);
+    position: absolute;
+    bottom: -13%;
+    left: 15%;
+    right: 15%;
+    
+}
+
+
